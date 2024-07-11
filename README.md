@@ -20,6 +20,7 @@ Chi tiết về response được viết trong `services/responseUtil.js`. Xem m
 * Multer: Thực hiện file upload
 * Body-parser: Xử lí form body
 * Jwt: tạo token jwt cho đăng nhập
+* Jest: Unit test và integration test
 
 # Naming convention
 * Đối với thư mục `modules/controllers/XXX`, cần đặt tên file theo quy tắc `xXXController.js`, ví dụ: `categoryController.js`
